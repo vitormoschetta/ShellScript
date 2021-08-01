@@ -1,0 +1,12 @@
+#!/bin/bash
+
+USUARIO="Nome:Vitor"
+
+echo "$USUARIO" | awk -F: '{ print $2 }'
+
+NOME= echo 
+"
+$USUARIO | awk -F: '{$2}'
+
+echo "$NOME"
+

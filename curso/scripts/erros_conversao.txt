@@ -1,0 +1,488 @@
+04_funcao_converte_imagem_diretorios.sh: line 10: cd: /home/vfarias/Desktop/Personal/GitHub/ShellScript/curso/scripts/scripts/images: No such file or directory
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+find: ‘./.dbus’: Permission denied
+04_funcao_converte_imagem_diretorios.sh: line 14: [: too many arguments
+convert-im6.q16: unable to open image `alembic': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `api': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `bin': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `config_templates': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `configuration': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `contrib': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `dag': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `default_login': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `example_dags': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `exceptions': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `executors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `git_version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `hooks': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jobs': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `kubernetes': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `lineage': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `logging_config': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `macros': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `migrations': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `models': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `operators': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `plugins_manager': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `secrets': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `security': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sensors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sentry': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `serialization': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `settings': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `task': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ti_deps': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `typing_compat': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `utils': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `www': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `www_rbac.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `alembic': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `api': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `bin': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `config_templates': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `configuration': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `contrib': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `dag': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `default_login': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `example_dags': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `exceptions': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `executors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `git_version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `hooks': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jobs': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `kubernetes': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `lineage': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `logging_config': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `macros': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `migrations': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `models': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `operators': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `plugins_manager': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `secrets': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `security': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sensors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sentry': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: too many exceptions (exception processing suspended).
+find: ‘./.dbus’: Permission denied
+04_funcao_converte_imagem_diretorios.sh: line 14: [: too many arguments
+convert-im6.q16: unable to open image `connection': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ext': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sqs.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `connection': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ext': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `sqs.png' @ error/convert.c/ConvertImageCommand/3258.
+find: ‘./.dbus’: Permission denied
+04_funcao_converte_imagem_diretorios.sh: line 14: [: too many arguments
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+find: ‘./.dbus’: Permission denied
+find: paths must precede expression: `sandbox'
+find: ‘./.dbus’: Permission denied
+04_funcao_converte_imagem_diretorios.sh: line 14: [: too many arguments
+convert-im6.q16: unable to open image `alembic': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `api': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `bin': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `config_templates': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `configuration': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `contrib': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `dag': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `default_login': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `example_dags': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `exceptions': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `executors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `git_version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `hooks': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jobs': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `kubernetes': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `lineage': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `logging_config': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `macros': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `migrations': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `models': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `operators': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `plugins_manager': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `secrets': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `security': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sensors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sentry': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `serialization': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `settings': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `task': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ti_deps': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `typing_compat': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `utils': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `www': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `www_rbac.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `alembic': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `api': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `bin': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `config_templates': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `configuration': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `contrib': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `dag': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `default_login': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `example_dags': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `exceptions': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `executors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `git_version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `hooks': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jobs': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `kubernetes': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `lineage': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `logging_config': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `macros': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `migrations': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `models': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `operators': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `plugins_manager': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `secrets': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `security': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sensors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sentry': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: too many exceptions (exception processing suspended).
+find: ‘./.dbus’: Permission denied
+04_funcao_converte_imagem_diretorios.sh: line 14: [: too many arguments
+convert-im6.q16: unable to open image `connection': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ext': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sqs.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `connection': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ext': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `sqs.png' @ error/convert.c/ConvertImageCommand/3258.
+find: ‘./.dbus’: Permission denied
+04_funcao_converte_imagem_diretorios.sh: line 14: [: too many arguments
+convert-im6.q16: unable to open image `.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: no images defined `.png' @ error/convert.c/ConvertImageCommand/3258.
+find: ‘./.dbus’: Permission denied
+find: paths must precede expression: `sandbox'
+find: ‘./.dbus’: Permission denied
+04_funcao_converte_imagem_diretorios.sh: line 14: [: too many arguments
+convert-im6.q16: unable to open image `alembic': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `api': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `bin': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `config_templates': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `configuration': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `contrib': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `dag': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `default_login': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `example_dags': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `exceptions': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `executors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `git_version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `hooks': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jobs': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `kubernetes': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `lineage': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `logging_config': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `macros': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `migrations': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `models': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `operators': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `plugins_manager': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `secrets': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `security': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sensors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sentry': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `serialization': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `settings': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `task': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `ti_deps': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `typing_compat': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `utils': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `www': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `www_rbac.jpeg': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open image `alembic': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `api': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `bin': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `config_templates': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `configuration': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `contrib': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `dag': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `default_login': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `example_dags': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `exceptions': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `executors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `git_version': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `hooks': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__init__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `jobs': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `kubernetes': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `lineage': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `logging_config': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `macros': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `migrations': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `models': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `operators': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `plugins_manager': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `__pycache__': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `secrets': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `security': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sensors': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/504.
+convert-im6.q16: unable to open image `sentry': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: too many exceptions (exception processing suspended).
+find: ‘./.dbus’: Permission denied
